@@ -1,0 +1,1 @@
+The Student Management System in C is a console-based application designed to efficiently manage student records within an educational institution. Developed using the C programming language, this system offers essential functionalities for storing, retrieving, updating, and deleting student information.
